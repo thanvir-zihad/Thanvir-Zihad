@@ -6,13 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanvir-zihad&label=Profile%20views&color=0e75b6&style=flat" alt="thanvir-zihad" /> </p>
 
-- 🔭 I’m currently working on **AWS**
+- 🔭 I’m currently working on **being a Cybersecurity Analyst**
 
-- 🌱 I’m currently learning **Python, Docker**
+- 🌱 I’m currently learning **being useful**
 
-- 🤝 I’m looking for help with **Python, DevOps**
-
-- 💬 Ask me about **IT Service Desk related**
+- 💬 Ask me about **Ask me about Networking and Security**
 
 - 📫 How to reach me **mr.thanvirahmed@gmail.com**
 
