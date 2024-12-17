@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mr.thanvirahmed@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/thanvirzihad/](linkedin.com/in/thanvirzihad/)
+- 📄 Know about my experiences (linkedin.com/in/thanvirzihad/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
