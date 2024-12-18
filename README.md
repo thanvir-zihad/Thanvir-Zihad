@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **being useful**
 
-- 💬 Ask me about **Ask me about Networking and Security**
+- 💬 **Ask me about Networking and Security**
 
 - 📫 How to reach me **mr.thanvirahmed@gmail.com**
 
